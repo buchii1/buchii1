@@ -6,4 +6,4 @@ I’m a software developer who thrives on turning complex challenges into seamle
 - 🤝 Actively seeking collaborations on high-impact projects and open source contributions.
 - 📫 Reach out on [LinkedIn](https://www.linkedin.com/in/okonkwo-godspower).
 
-Discover my creations and latest projects at [My Portfolio](https://buchii.vercel.app) and explore my other projects on [https://github.com/zobaa0](https://github.com/zobaa0).
+Discover my creations and latest projects at [My Portfolio](https://buchii.vercel.app) and explore my other projects at [https://github.com/zobaa0](https://github.com/zobaa0).
